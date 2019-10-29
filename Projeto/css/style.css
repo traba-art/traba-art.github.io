@@ -1,0 +1,101 @@
+
+    @font-face {
+    font-family:Open Sans;
+    src:url(../fontes/OpenSans-SemiBold.ttf);
+    width: 700;
+    width: 400;
+	
+       
+    } @font-face {
+    font-family:Poppins;
+    src:url(../fontes/Poppins-Black.ttf);
+    width: 700;
+    width: 400;
+	
+          
+    }
+
+    td { padding:15px }
+    .tdEspaco { display: table; float:left; margin:15px }
+    table { border-spacing: 5px; }
+
+    h1{
+	font-family: 'Poppins';
+    width: 700;
+    width: 400;
+	
+	}
+
+    h2{
+	font-family:'Poppins';
+	width: 700;
+    width: 400;
+	}
+
+	h4{
+	font-family:'Open Sans';
+	color:grey;
+	width: 700;
+    width: 400;
+	
+	}
+
+	table{
+	color:white;
+	font-family:'Open Sans';
+	width: 100%;
+	height: 100%;
+	border-spacing: 0;
+	margin: 0px;
+	   
+    }
+    ion-icon{
+    	width: 50px;
+    	height: 30px; 		
+    }
+    body{
+    	padding: 0%;
+    	margin: 0px;
+    }
+  
+    .td{
+	border-color: hsl(192, 100%, 9%);
+	background-color: hsl(192, 100%, 9%); 
+
+	}
+	.log2{
+    width: 180px;
+	height: 50px;
+	background-color:#f54291;
+	border-bottom-color: #f54291;
+	border-top-color: #f54291;
+	border-right-color: #f54291;
+	border-bottom-color: #f54291;
+	border-left-color: #f54291;
+	color: white;
+	border-radius: 5px;
+	}
+	.bo:hover{
+	color: white;
+	background-color:hsl(322, 100%, 66%);
+	border-radius: 5px 5px 5px 5px;
+
+	}
+	.log{
+    width: 250px;
+	height: 45px;
+	border-radius: 5px;
+    color: grey}
+	#i{
+	width: 70px;
+	height: 10px;
+	}
+	.FMA{
+	text-align: right;
+	color: grey;
+
+	 	}#reg{
+	 		font-family:'Open Sans';
+	
+	 	}
+
